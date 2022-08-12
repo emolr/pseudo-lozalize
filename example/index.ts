@@ -1,4 +1,4 @@
-import { pseudoLocalize } from '../src';
+import { pseudoLocalize } from '../src/pseudo-localize';
 
 (() => {
   const app = document.getElementById('app');

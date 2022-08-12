@@ -15,7 +15,6 @@
   },
   "scripts": {
     "dev": "vite",
-    "build:definitions": "tsc src/*.ts --declaration --emitDeclarationOnly --declarationDir dist/",
     "build:files": "node scripts/build.mjs",
     "build": "tsc && npm run build:files",
     "preview": "vite preview"

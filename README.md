@@ -2,6 +2,11 @@
 
 A tiny library for generating pseudo localizations of text based on [https://github.com/Shopify/pseudolocalization](https://github.com/Shopify/pseudolocalization).
 
+Here's a couple of article on how this is useful:
+
+- [https://www.shopify.com/partners/blog/pseudo-localization](https://www.shopify.com/partners/blog/pseudo-localization)
+- [https://slack.engineering/localizing-slack/](https://slack.engineering/localizing-slack/)
+
 ## Bookmark
 
 This lib also exports a bookmark script that pseudo translates all text on a website when clicking the bookmark.
