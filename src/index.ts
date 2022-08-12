@@ -16,8 +16,8 @@ const vowels: string[] = [
   'Y',
 ];
 
-// @todo - Figure out what |&\\S*?; is and add it
-const regex = /(<.*?>|{{.*?}}|%{.*?}|https?:\/\/[^\s]+)/g;
+// Filters html tags, handlebars, liquid, urls and html entities
+const regex = /(<.*?>|{{.*?}}|%{.*?}|https?:\/\/[^\s]+|&[^\s]+)/g;
 
 const letters: Record<string, string> = {
   a: 'α',

@@ -1,7 +1,7 @@
 {
   "name": "pseudo-localize",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "files": ["dist"],
   "main": "./dist/pseudo-localize.umd.cjs",
