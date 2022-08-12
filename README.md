@@ -1,6 +1,6 @@
 # Pseudo localize
 
-A tiny library for generating pseudo localizations of text
+A tiny library for generating pseudo localizations of text based on (https://github.com/Shopify/pseudolocalization)[https://github.com/Shopify/pseudolocalization]
 
 ## Examples
 

@@ -1,6 +1,3 @@
-// Typescript implementation of https://github.com/Shopify/pseudolocalization
-// @todo - Make it into a class and add ignore words list
-
 const vowels: string[] = [
   'a',
   'e',
